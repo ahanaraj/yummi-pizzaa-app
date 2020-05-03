@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico|Raleway&display=swap');
+
+html, body {
+    font-family: 'Raleway', sans-serif;
+}
+
+.is-styled-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.is-home-background {
+    background-image: url(../images/yummiCover.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.is-admin-background {
+    background-image: url(../images/confirmOrder.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.is-other-background {
+    background-image: url(../images/yummiOtherCover.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
